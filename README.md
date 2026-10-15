@@ -1,5 +1,10 @@
 # Modelling the deductible inside the likelihood: Density forecasting of dependent claim frequency and severity
 
+**Eslam Abdelhakim Seyam**<br>
+Department of Insurance and Risk Management, College of Business,<br>
+Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 13318, Saudi Arabia<br>
+Email: [isiam@imamu.edu.sa](mailto:isiam@imamu.edu.sa)
+
 This repository contains the R code and data needed to reproduce the empirical
 results, simulation study and figures of the paper.
 
